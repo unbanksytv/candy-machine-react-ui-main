@@ -55,6 +55,6 @@ To do so:
 3. Run `vercel` on your project folder (generally the recommended configuration works)
 4. Go to the vercel console and configure the domain for your drop
 
-Or just click this button:
+Or just click this button
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FCrossMint%2Fcandy-machine-react-ui&env=REACT_APP_CANDY_MACHINE_ID,REACT_APP_SOLANA_NETWORK,REACT_APP_SOLANA_RPC_HOST,REACT_APP_CROSSMINT_ID&project-name=candy-machine-ui&repo-name=candy-machine-react-ui)
